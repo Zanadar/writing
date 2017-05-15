@@ -4,7 +4,7 @@ draft = true
 
 # How to Join an existing open source project
 
-Lets assume you’re convinced that contributing to open soruce is something oyu want to do.  When I started, I had this assumption pretty drilled into me, but it’s hard to get started! And scary!  Let me just assure you: If you find it hard to know where to start, its not you; its hard for everyone!
+Lets assume you’re convinced that contributing to open source is something you want to do.  When I started, I had this assumption pretty drilled into me, but it’s hard to get started! And scary!  Let me just assure you: If you find it hard to know where to start, its not you; its hard for everyone! That said, working on Open Source Software is super rewarding!✨
 
 This point aims to demystify the process by way of a story.  At Stride, we have an Open Source Club. At the club, we don’t just work on open source (although that’s part of it); we also work on the process of open source (how do you run a project, how can you be an effective member of a project).  A number of the members of the club are relatively new to OSS an were curious how they’d join a project, so we, as a group contributed to ESlint. This is the story of that contribution, framed as examples of general guidelines that could be applied to any project.
 
